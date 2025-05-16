@@ -8,13 +8,14 @@
 - 🎓 3th year student at ENSPY (National Higher Polytechnic School of Yaoundé)
 - 💻 Major: Computer and Digital Systems Engineering
 - 🔐 Passionate about cybersecurity and software development
-- 🌍 Polyglot: French and English
+- 🌍 Bilingual: French and English
 
 ## 🛠 Tech Stack
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-234D5F?style=for-the-badge&logo=c&logoColor=white)
 
 
 ### Tools & Technologies
