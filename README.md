@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- 🎓 3th year student at ENSPY (National Higher Polytechnic School of Yaoundé)
+- 🎓 3th year student at NASEY(National Advanced School of Engineering of Yaoundé)
 - 💻 Major: Computer and Digital Systems Engineering
 - 🔐 Passionate about cybersecurity and software development
 - 🌍 Bilingual: French and English
